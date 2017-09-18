@@ -10,9 +10,7 @@ If you have any trouble getting the Learn IDE installed, just use the Ask a Ques
 
 ## How to Download the Learn IDE:
 
-1. <a href="https://learn.co/ide-3/download">
-  <img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
-</a>  
+1. Download the IDE from the button above, or use this [link](https://learn.co/ide-3/download]).
 2. The software will download (we promise, it’s safe!) 
 3. If you are using a Mac, drag the IDE software to your Applications Folder. If you’re on Windows or Linux, you don’t need to move the IDE to a specific folder. 
 4. Don’t worry about opening the IDE yet, we walk you through opening it and getting started in the next lesson.
@@ -20,7 +18,7 @@ If you have any trouble getting the Learn IDE installed, just use the Ask a Ques
 ## A Quick Note on the Learn IDE
 The Learn IDE  basically gives you a pre-configured terminal with a complete development environment in about a minute. We built the Learn IDE so you can get started coding for real without the hassle of getting your entire computer setup. The Learn IDE is built on top of Atom, the text editor by our amazing friends over at GitHub.
 
-Before we move on, don't forget to download the IDE
+Before we move on, don't forget to download the IDE:
 
 <a href="https://learn.co/ide-3/download">
   <img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
