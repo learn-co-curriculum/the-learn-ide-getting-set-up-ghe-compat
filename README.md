@@ -13,7 +13,7 @@ If you have any trouble getting the Learn IDE installed, just use the Ask a Ques
 1. Download the IDE from the button above, or use this [link](https://learn.co/ide-3/download).
 2. The software will download (we promise, it’s safe!) 
 3. If you are using a Mac, drag the IDE software to your Applications Folder. If you’re on Windows or Linux, you don’t need to move the IDE to a specific folder. 
-4. Don’t worry about opening the IDE yet, we walk you through opening it and getting started in the next lesson. If you do open it, you'll see the temporary directory (as seen below). Keep going to the next lesson to learn how to open a lab in the IDE.
+4. Don’t worry about opening the IDE yet, we will walk you through opening it and getting started in the next lesson. If you do open it, you'll see a temporary directory - that's fine! Check out the image below of what that looks like. We’ll walk you through how to get started with a lab in the IDE in the next lesson.
 
 <img height="auto" width="500px" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/ide-temp-dir.png" />
 
