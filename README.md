@@ -5,10 +5,16 @@
   <br>
 
   If you’re thinking, “I have no idea what the Learn IDE is and how I’ll use it,” don’t worry! Below, you’ll find some info on what it does and how it will help you learn to code. In the next lesson, we’ll walk you through your first lab using test-driven-development and the IDE. 
+  
+  <br>
+  <br>
 
   <a href="https://learn.co/ide-3/download">
   <img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
   </a>
+  
+  <br>
+  <br>
 
   If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
 
@@ -33,6 +39,9 @@
   <br>
   
   The Learn IDE gives you a pre-configured terminal with a complete development environment in about a minute. We built the Learn IDE so you can get started coding for real without the hassle of getting your entire computer set up. The Learn IDE is built on top of Atom, the text editor by our amazing friends over at GitHub.
+  
+  <br>
+  <br>
 
   Before we move on, don't forget to download the IDE:
 
