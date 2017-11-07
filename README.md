@@ -3,6 +3,7 @@
   Nice! You’re all connected with GitHub. Now, it’s time to start using the “Learn IDE” – short for Integrated Development Environment – that we mentioned in the last lesson. Follow the instructions below to download the IDE.
   
   <br>
+  <br>
 
   If you’re thinking, “I have no idea what the Learn IDE is and how I’ll use it,” don’t worry! Below, you’ll find some info on what it does and how it will help you learn to code. In the next lesson, we’ll walk you through your first lab using test-driven-development and the IDE. 
   
