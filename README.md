@@ -23,7 +23,7 @@
   
   <br>
 
-  1. Download the IDE from the button above, or use this [link](https://learn.co/ide-3/download).
+  1. Download the IDE from the button above, or use this <a href="https://learn.co/ide-3/download"> link</a>.
   <br>
   2. The software will download (we promise, it’s safe!)
   <br>
