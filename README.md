@@ -31,7 +31,7 @@
   <br>
   4. Open the IDE, and log in with your Learn account. You'll see a temporary directory - that's fine! Check out the image below to see what that looks like. We’ll walk you through how to get started with opening a lab in the IDE in the next lesson.
 
-  <img height="auto" width="500px" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/ide-temp-dir.png" />
+  <img height="auto" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/ide-temp-dir.png" />
 
   <br>
 
