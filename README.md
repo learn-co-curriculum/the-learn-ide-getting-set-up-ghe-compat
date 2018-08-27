@@ -1,6 +1,6 @@
 <div class="readme-content-test--hide-when-active">
 
-  Nice! You’re all connected with GitHub. Now, it’s time to start using the “Learn IDE” – short for Integrated Development Environment – that we mentioned in the last lesson. Follow the instructions below to download the IDE.
+  It’s time to start using the “Learn IDE” – short for Integrated Development Environment – that we mentioned in the last lesson. Follow the instructions below to download the IDE.
   
   <br>
   <br>
@@ -53,7 +53,7 @@
 
 <div class="readme-content-test--show-when-active">
 
-  Nice! You’re all connected with GitHub. Now, it’s time to start using the “Learn IDE” – short for Integrated Development Environment – that we mentioned in the last lesson.
+  Now, it’s time to start using the “Learn IDE” – short for Integrated Development Environment – that we mentioned in the last lesson.
   
   <br>
   <br>
